@@ -1,0 +1,7 @@
+Plant_ID,Stack_ID,Measure,Pollutant,Pre_Avg,Post_Avg,Reduction_%
+PL-01,S-01,Wet Scrubber,PM2.5,200.2,187.75,6.2
+PL-01,S-01,Wet Scrubber,SO2,210.55,195.15,7.3
+PL-01,S-01,Wet Scrubber,NOx,200.09,196.6,1.7
+PL-03,S-03,Baghouse Filter,PM2.5,203.23,187.32,7.8
+PL-03,S-03,Baghouse Filter,SO2,201.34,191.93,4.7
+PL-03,S-03,Baghouse Filter,NOx,218.8,188.78,13.7
